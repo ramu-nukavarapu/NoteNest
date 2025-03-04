@@ -14,11 +14,11 @@ const notesSchema = new Schema({
         type: String,
         required: true
     },
-    tag: {
+    tag: [{
         type: String,
         required: true,
         default: "General"
-    },
+    }],
     createdAt: {
         type: Date,
         default: Date.now()
