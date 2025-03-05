@@ -34,8 +34,8 @@ NoteNest is a secure note-taking application that allows users to create, manage
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/notenest.git
-   cd notenest
+   git clone https://github.com/ramu-nukavarapu/NoteNest.git
+   cd NoteNest
    ```
 2. Install dependencies:
    ```bash
